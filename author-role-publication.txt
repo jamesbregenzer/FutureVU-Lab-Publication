@@ -1,0 +1,5 @@
+primary: Primary Author
+secondary: Secondary / Tertiary Author
+editor: Editor
+book_editor: Book Editor (if different from publication editor)
+translator: Translator
